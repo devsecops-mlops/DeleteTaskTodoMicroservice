@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: delete-task-api.devsecopsguide.online
+  - host: dev-delete-task-api.devsecopsguide.online
     http:
       paths:
       - pathType: Prefix
